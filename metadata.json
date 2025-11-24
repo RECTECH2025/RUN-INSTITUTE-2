@@ -1,0 +1,5 @@
+{
+  "name": "Run Institute Campaign Manager",
+  "description": "A marketing plan generator for the Female Leadership Program using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
